@@ -7,3 +7,5 @@ U
 .gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
 T
 $tests/generator-verification.test.ts,a/2/a243667d501299d156ed0f776da12ad5a6b243c9
+U
+%contracts/generator-verificaiton.clar,3/2/322ce0dece23f288e3477bbe805ee46cbd80f92e
